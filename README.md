@@ -147,7 +147,7 @@ MEDagent/
 - 建议替换代码中的邮箱地址
 
 ### EfficientNet路径配置
-- 默认脚本路径: `/commondocument/group6/MEDagent_demo/EfficientNet/diagnostic_inference.py`
+- 默认脚本路径: `/MEDagent/EfficientNet/diagnostic_inference.py`
 - 可根据实际部署环境调整路径
 
 ## 注意事项
